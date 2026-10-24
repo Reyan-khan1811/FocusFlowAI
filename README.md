@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 FocusFlow AI
 
 ### Your AI-powered student productivity companion
@@ -94,3 +95,7 @@ Built as a student technology project.
 ## 📄 License
 
 A license will be added once the project license is selected.
+=======
+# FocusFlowAI
+AI-powered student productivity companion built with Python and AI agents.
+>>>>>>> 716c75ef4b5734b466c4098888158f1b253cf425
