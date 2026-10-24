@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+strands-agents
+boto3
+streamlit
